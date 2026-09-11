@@ -1,5 +1,6 @@
 ---
 # See github.com/js13kGames/hello-world for supported frontmatter
+video: https://youtu.be/QwIt0xhds-c
 ---
 
 Runicorn Zombie Apocalypse is a 8-bit fast-paced rainbow 'light-cycle' (See for example, Tron) combat with roguelike elements, where you play as a colorful unicorn in a world that is ending... by some other not so colorful unicorns. 
