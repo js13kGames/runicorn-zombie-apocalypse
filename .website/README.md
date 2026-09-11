@@ -1,5 +1,6 @@
 ---
 # See github.com/js13kGames/hello-world for supported frontmatter
+video: https://youtu.be/QwIt0xhds-c
 ---
 
 Runicorn Zombie Apocalypse is a 8-bit fast-paced rainbow 'light-cycle' (See for example, Tron) combat with roguelike elements, where you play as a colorful unicorn in a world that is ending... by some other not so colorful unicorns. 
@@ -12,4 +13,7 @@ Build your loadout between five districts. Equip the Megacorn blaster, collect m
 
 Jacob wished unicorns into existence. Esau wished for a zombie apocalypse. Guided by Isaac, the genie's former keeper, you must reach Jacob before the last wish dies with him.
 
-Steer with WASD or the arrow keys. Press Space to dash. On a phone, use the left joystick and DASH button. The Megacorn blaster fires automatically once equipped. Click or press a key to start the music.
+Steer with WASD or the arrow keys. Press Space to dash. On a phone, use the left joystick and DASH button. The Megacorn blaster fires forward once equipped; steer to aim. Click or press a key to start the music.
+
+
+Loop Encore adds changing musical phrases and echoes when you close a loop. Larger catches add more notes. Find the Requiem Gun for a dash-triggered spread, a Green Herb for healing, or the rare Nyan-Unicorn for pastry-bodied flight and a denser rainbow. The Warden now has a stronger second phase, and a brief death scene marks what caught you before the retry screen.
